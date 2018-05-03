@@ -1,3 +1,5 @@
+#Integrantes: Benjamin Rios, Martin Rojas
+#Profesor: Rodolfo Aravena
 activo = 1
 mi_lista = []
 print("Bienvenido al programa!\n")
@@ -16,5 +18,3 @@ while activo ==1:
         mi_lista.remove("fin")
         print("\n\nLas palabras escritas fueron: ",mi_lista)
         break
-    
-
